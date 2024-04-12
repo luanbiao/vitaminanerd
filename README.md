@@ -16,7 +16,7 @@ Acesse agora:
 
 ## Módulos
 
-1. **Blog**: 123...
+1. **Site**: 123...
 2. **Rádio**: 123...
 3. **Marcas**: 123...
 4. **Podcast**: 123...
@@ -24,10 +24,9 @@ Acesse agora:
 ## Telas
 
 ### Site
-<img src="https://github.com/luanbiao/desesquecedor_preview/blob/main/telas/desesquecedor-dashboards-login-home.png" width="700">
+<img src="https://github.com/luanbiao/vitaminanerd/blob/main/telas/vitamina-nerd.png" width="700">
 
 ### Rádio
-<img src="https://github.com/luanbiao/desesquecedor_preview/blob/main/telas/desesquecedor-notas-lembretes-tarefas.png" width="700">
 
 ### Marcas
-<img src="https://github.com/luanbiao/desesquecedor_preview/blob/main/telas/desesquecedor-anexos-animes-grupos.png" width="700">
+<img src="https://github.com/luanbiao/vitaminanerd/blob/main/telas/marcas.png" width="700">
