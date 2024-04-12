@@ -12,14 +12,19 @@ Acesse agora:
 🚧 Concluído
 
 ## Visão Geral
-123...
+Ao longo de 10 anos incluímos diversas ferramentas e recursos para apoiar a produção de conteúdo e apoiamos! 
 
-## Módulos
+- + de 4.000 publicações
+- + de 1 milhão de visualizações
+- + 17 podcasts no Spotify
+- + Cobertura de eventos no Youtube
 
-1. **Site**: 123...
-2. **Rádio**: 123...
-3. **Marcas**: 123...
-4. **Podcast**: 123...
+E muito mais...
+
+Nesse repositório estarei publicando duas dessas ferramentas:
+
+1. **Rádio**: Conexão API para obtenção da descrição das músicas, cadastro em promoção, pedido de músicas via API.
+2. **Marcas**: Ferramenta para inserção de marca d'água e redução de imagens online.
 
 ## Telas
 
