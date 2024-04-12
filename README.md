@@ -14,17 +14,17 @@ Acesse agora:
 ## Visão Geral
 Ao longo de 10 anos incluímos diversas ferramentas e recursos para apoiar a produção de conteúdo e apoiamos! 
 
-- + de 4.000 publicações
-- + de 1 milhão de visualizações
-- + 17 podcasts no Spotify
-- + Cobertura de eventos no Youtube
++ de 4.000 publicações
++ de 1 milhão de visualizações
++ 17 podcasts no Spotify
++ Cobertura de eventos no Youtube
 
 E muito mais...
 
 Nesse repositório estarei publicando duas dessas ferramentas:
 
-1. **Rádio**: Conexão API para obtenção da descrição das músicas, cadastro em promoção, pedido de músicas via API.
-2. **Marcas**: Ferramenta para inserção de marca d'água e redução de imagens online.
+- **Rádio**: Conexão API para obtenção da descrição das músicas, cadastro em promoção, pedido de músicas via API.
+- **Marcas**: Ferramenta para inserção de marca d'água e redução de imagens online.
 
 ## Telas
 
