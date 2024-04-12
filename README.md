@@ -14,8 +14,8 @@ Acesse agora:
 ## Visão Geral
 Ao longo de 10 anos incluímos diversas ferramentas e recursos para apoiar a produção de conteúdo e apoiamos! 
 
-+ + 4.000 publicações
-+ + 1 milhão de visualizações
++ Mais de 4.000 publicações
++ Mais de 1 milhão de visualizações
 + 17 podcasts no Spotify
 + Cobertura de eventos no Youtube
 
