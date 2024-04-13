@@ -1,8 +1,8 @@
 <?php
 
 $dbHost ='localhost';
-$dbUsername ='root';
-$dbPassword ='G4tosN3rds2505';
+$dbUsername ='username';
+$dbPassword ='';
 $dbDatabase ='radio';
 /*
 try{
